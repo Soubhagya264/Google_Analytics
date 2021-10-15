@@ -1,0 +1,210 @@
+
+2021-09-29/23:22:31		Start of Training
+2021-09-29/23:22:31		Entered the get_data method of the Data_Getter class
+2021-09-29/23:22:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-29/23:23:13		Json data convert into new rows
+2021-09-29/23:24:53		Started droping nan value from target variable
+2021-09-29/23:24:57		removed nan value from target variable
+2021-09-29/23:24:57		Started removing const col
+2021-09-29/23:24:57		replacing other value 
+2021-09-29/23:24:57		Unsuccessful End of Training
+2021-09-30/00:31:25		Start of Training
+2021-09-30/00:31:25		Entered the get_data method of the Data_Getter class
+2021-09-30/00:31:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/00:31:57		Json data convert into new rows
+2021-09-30/00:33:15		Started droping nan value from target variable
+2021-09-30/00:33:19		removed nan value from target variable
+2021-09-30/00:33:19		Started removing const col
+2021-09-30/00:33:19		replacing other value 
+2021-09-30/00:33:19		Unsuccessful End of Training
+2021-09-30/00:44:08		Start of Training
+2021-09-30/00:44:08		Entered the get_data method of the Data_Getter class
+2021-09-30/00:44:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/00:44:39		Json data convert into new rows
+2021-09-30/00:46:03		Started droping nan value from target variable
+2021-09-30/00:46:07		removed nan value from target variable
+2021-09-30/00:46:07		Started removing const col
+2021-09-30/00:46:07		replacing other value 
+2021-09-30/00:46:07		Unsuccessful End of Training
+2021-09-30/00:51:10		Start of Training
+2021-09-30/00:51:10		Entered the get_data method of the Data_Getter class
+2021-09-30/00:51:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/00:51:40		Json data convert into new rows
+2021-09-30/00:52:59		Started droping nan value from target variable
+2021-09-30/00:53:03		removed nan value from target variable
+2021-09-30/00:53:03		Started removing const col
+2021-09-30/00:53:03		replacing other value 
+2021-09-30/00:53:03		Unsuccessful End of Training
+2021-09-30/00:57:13		Start of Training
+2021-09-30/00:57:13		Entered the get_data method of the Data_Getter class
+2021-09-30/00:57:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/00:57:43		Json data convert into new rows
+2021-09-30/00:59:00		Started droping nan value from target variable
+2021-09-30/00:59:03		removed nan value from target variable
+2021-09-30/00:59:03		Started removing const col
+2021-09-30/00:59:03		replacing other value 
+2021-09-30/00:59:03		Unsuccessful End of Training
+2021-09-30/01:03:07		Start of Training
+2021-09-30/01:03:07		Entered the get_data method of the Data_Getter class
+2021-09-30/01:03:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/01:03:37		Json data convert into new rows
+2021-09-30/01:04:54		Started droping nan value from target variable
+2021-09-30/01:04:58		removed nan value from target variable
+2021-09-30/01:04:58		Started removing const col
+2021-09-30/01:04:58		Unsuccessful End of Training
+2021-09-30/01:11:41		Start of Training
+2021-09-30/01:11:41		Entered the get_data method of the Data_Getter class
+2021-09-30/01:11:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/01:12:11		Json data convert into new rows
+2021-09-30/01:13:29		Started droping nan value from target variable
+2021-09-30/01:13:33		removed nan value from target variable
+2021-09-30/01:13:33		Started removing const col
+2021-09-30/01:13:34		Unsuccessful End of Training
+2021-09-30/09:25:59		Start of Training
+2021-09-30/09:25:59		Entered the get_data method of the Data_Getter class
+2021-09-30/09:26:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/09:26:41		Json data convert into new rows
+2021-09-30/09:28:34		Started droping nan value from target variable
+2021-09-30/09:28:39		removed nan value from target variable
+2021-09-30/09:28:39		Unsuccessful End of Training
+2021-09-30/09:39:39		Start of Training
+2021-09-30/09:39:39		Entered the get_data method of the Data_Getter class
+2021-09-30/09:39:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/09:40:14		Json data convert into new rows
+2021-09-30/09:41:48		Started droping nan value from target variable
+2021-09-30/09:41:52		removed nan value from target variable
+2021-09-30/09:41:52		replacing other value 
+2021-09-30/09:42:14		dropping unnecessary featured 
+2021-09-30/09:42:15		droped unnecessary featured 
+2021-09-30/09:42:15		change_target_var_to_numeric 
+2021-09-30/09:42:15		changed_target_var_to_numeric 
+2021-09-30/09:42:15		 Extracting Neumerical feature from data
+2021-09-30/09:42:15		Extracted Neumerical feature from data
+2021-09-30/09:42:15		 Extracting categorical feature from data
+2021-09-30/09:42:15		 Extracted categorical feature from data
+2021-09-30/09:42:15		Preprocessing done
+2021-09-30/09:42:15		Unsuccessful End of Training
+2021-09-30/09:51:57		Start of Training
+2021-09-30/09:51:57		Entered the get_data method of the Data_Getter class
+2021-09-30/09:52:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/09:52:49		Json data convert into new rows
+2021-09-30/09:54:49		Started droping nan value from target variable
+2021-09-30/09:54:54		removed nan value from target variable
+2021-09-30/09:54:54		replacing other value 
+2021-09-30/09:55:24		dropping unnecessary featured 
+2021-09-30/09:55:24		droped unnecessary featured 
+2021-09-30/09:55:24		change_target_var_to_numeric 
+2021-09-30/09:55:24		changed_target_var_to_numeric 
+2021-09-30/09:55:24		 Extracting Neumerical feature from data
+2021-09-30/09:55:24		Extracted Neumerical feature from data
+2021-09-30/09:55:24		 Extracting categorical feature from data
+2021-09-30/09:55:24		 Extracted categorical feature from data
+2021-09-30/09:55:25		Preprocessing done
+2021-09-30/09:55:25		Train Test Split started
+2021-09-30/09:55:25		Train Test Split done
+2021-09-30/09:55:25		Entered the get_best_model method of the Model_Finder class
+2021-09-30/09:55:25		Exception occured in get_best_model method of the Model_Finder class. Exception message:  'Model_Finder' object has no attribute 'get_best_params_for_xgboost'
+2021-09-30/09:55:25		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2021-09-30/09:55:25		Unsuccessful End of Training
+2021-09-30/10:19:11		Start of Training
+2021-09-30/10:19:11		Entered the get_data method of the Data_Getter class
+2021-09-30/10:19:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/10:19:49		Json data convert into new rows
+2021-09-30/10:21:28		Started droping nan value from target variable
+2021-09-30/10:21:32		removed nan value from target variable
+2021-09-30/10:21:32		replacing other value 
+2021-09-30/10:21:56		dropping unnecessary featured 
+2021-09-30/10:21:56		droped unnecessary featured 
+2021-09-30/10:21:56		change_target_var_to_numeric 
+2021-09-30/10:21:56		changed_target_var_to_numeric 
+2021-09-30/10:21:56		 Extracting Neumerical feature from data
+2021-09-30/10:21:56		Extracted Neumerical feature from data
+2021-09-30/10:21:56		 Extracting categorical feature from data
+2021-09-30/10:21:56		 Extracted categorical feature from data
+2021-09-30/10:21:56		Preprocessing done
+2021-09-30/10:21:56		Train Test Split started
+2021-09-30/10:21:56		Train Test Split done
+2021-09-30/10:21:56		Entered the get_best_model method of the Model_Finder class
+2021-09-30/10:21:56		Exception occured in get_best_model method of the Model_Finder class. Exception message:  'Model_Finder' object has no attribute 'get_best_params_for_xgboost'
+2021-09-30/10:21:56		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2021-09-30/10:21:56		Unsuccessful End of Training
+2021-09-30/10:31:07		Start of Training
+2021-09-30/10:31:07		Entered the get_data method of the Data_Getter class
+2021-09-30/10:31:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/10:31:40		Json data convert into new rows
+2021-09-30/10:33:16		Started droping nan value from target variable
+2021-09-30/10:33:20		removed nan value from target variable
+2021-09-30/10:33:20		replacing other value 
+2021-09-30/10:33:42		dropping unnecessary featured 
+2021-09-30/10:33:42		droped unnecessary featured 
+2021-09-30/10:33:42		change_target_var_to_numeric 
+2021-09-30/10:33:42		changed_target_var_to_numeric 
+2021-09-30/10:33:42		 Extracting Neumerical feature from data
+2021-09-30/10:33:42		Extracted Neumerical feature from data
+2021-09-30/10:33:42		 Extracting categorical feature from data
+2021-09-30/10:33:42		 Extracted categorical feature from data
+2021-09-30/10:33:42		Preprocessing done
+2021-09-30/10:33:42		Train Test Split started
+2021-09-30/10:33:42		Train Test Split done
+2021-09-30/10:33:42		Entered the get_best_model method of the Model_Finder class
+2021-09-30/10:33:42		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-30/10:33:46		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  DataFrame.dtypes for data must be int, float, bool or categorical.  When
+                categorical type is supplied, DMatrix parameter
+                `enable_categorical` must be set to `True`.totals_newVisits
+2021-09-30/10:33:46		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-30/10:33:46		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2021-09-30/10:33:46		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2021-09-30/10:33:46		Unsuccessful End of Training
+2021-09-30/13:11:48		Start of Training
+2021-09-30/13:11:48		Entered the get_data method of the Data_Getter class
+2021-09-30/13:11:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/13:12:18		Json data convert into new rows
+2021-09-30/13:13:51		Started droping nan value from target variable
+2021-09-30/13:13:55		removed nan value from target variable
+2021-09-30/13:13:55		replacing other value 
+2021-09-30/13:14:14		dropping unnecessary featured 
+2021-09-30/13:14:14		droped unnecessary featured 
+2021-09-30/13:14:14		change_target_var_to_numeric 
+2021-09-30/13:14:14		changed_target_var_to_numeric 
+2021-09-30/13:14:14		 Extracting Neumerical feature from data
+2021-09-30/13:14:14		Extracted Neumerical feature from data
+2021-09-30/13:14:14		 Extracting categorical feature from data
+2021-09-30/13:14:14		 Extracted categorical feature from data
+2021-09-30/13:14:14		Preprocessing done
+2021-09-30/13:14:14		Train Test Split started
+2021-09-30/13:14:14		Train Test Split done
+2021-09-30/13:14:14		Entered the get_best_model method of the Model_Finder class
+2021-09-30/13:14:14		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-30/13:17:31		XGBoost best params: {'tree_method': 'exact', 'n_estimators': 100, 'min_child_weight': 6, 'max_depth': 7, 'learning_rate': 0.05, 'booster': 'gbtree'}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-30/13:17:31		XGboost Prediction done
+2021-09-30/13:17:31		Entered the get_best_params_for_lgb method of the Model_Finder class
+2021-09-30/13:17:31		Exception occured in get_best_model method of the Model_Finder class. Exception message:  name 'lgb_model' is not defined
+2021-09-30/13:17:31		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2021-09-30/13:17:31		Unsuccessful End of Training
+2021-09-30/13:42:01		Start of Training
+2021-09-30/13:42:01		Entered the get_data method of the Data_Getter class
+2021-09-30/13:42:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-30/13:42:32		Json data convert into new rows
+2021-09-30/13:43:50		Started droping nan value from target variable
+2021-09-30/13:43:54		removed nan value from target variable
+2021-09-30/13:43:54		replacing other value 
+2021-09-30/13:44:12		dropping unnecessary featured 
+2021-09-30/13:44:12		droped unnecessary featured 
+2021-09-30/13:44:12		change_target_var_to_numeric 
+2021-09-30/13:44:12		changed_target_var_to_numeric 
+2021-09-30/13:44:12		 Extracting Neumerical feature from data
+2021-09-30/13:44:12		Extracted Neumerical feature from data
+2021-09-30/13:44:12		 Extracting categorical feature from data
+2021-09-30/13:44:12		 Extracted categorical feature from data
+2021-09-30/13:44:12		Preprocessing done
+2021-09-30/13:44:12		Train Test Split started
+2021-09-30/13:44:12		Train Test Split done
+2021-09-30/13:44:12		Entered the get_best_model method of the Model_Finder class
+2021-09-30/13:44:12		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-30/13:47:16		XGBoost best params: {'tree_method': 'exact', 'n_estimators': 100, 'min_child_weight': 6, 'max_depth': 7, 'learning_rate': 0.05, 'booster': 'gbtree'}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-30/13:47:16		XGboost Prediction done
+2021-09-30/13:47:16		Entered the get_best_params_for_lgb method of the Model_Finder class
+2021-09-30/13:47:17		LGB Prediction done
+2021-09-30/13:47:17		Entered the save_model method of the File_Operation class
+2021-09-30/13:47:17		Model File LGB saved. Exited the save_model method of the Model_Finder class
+2021-09-30/13:47:17		Successful End of Training

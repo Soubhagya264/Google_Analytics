@@ -1,0 +1,16 @@
+2021-10-02/09:19:16		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/09:26:37		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/10:34:20		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/12:28:03		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/13:11:32		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/13:13:00		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/13:42:30		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/13:57:06		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/13:59:22		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/16:15:57		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/16:28:22		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/16:30:19		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/17:04:36		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-02/17:15:17		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-06/07:42:27		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv
+2021-10-06/09:16:03		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_02102021_091700.csv

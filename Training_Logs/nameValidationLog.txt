@@ -1,0 +1,35 @@
+2021-09-29/12:03:20		Invalid File Name!! File moved to Bad Raw Folder :: GAnalyst_31082021_114200..csv
+2021-09-29/12:05:56		Invalid File Name!! File moved to Bad Raw Folder :: GAnalyst_31082021_114200..csv
+2021-09-29/12:07:46		Invalid File Name!! File moved to Bad Raw Folder :: GAnalyst_31082021_114200..csv
+2021-09-29/12:11:02		Invalid File Name!! File moved to Bad Raw Folder :: GAnalyst_31082021_114200..csv
+2021-09-29/12:13:38		Invalid File Name!! File moved to Bad Raw Folder :: GAnalyst_31082021_114200..csv
+2021-09-29/12:16:38		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/12:18:43		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/12:19:28		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/12:34:59		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/14:01:33		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/14:07:46		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/14:10:17		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/14:14:36		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/21:02:07		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/21:18:14		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/21:41:26		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/21:50:30		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/22:45:17		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/22:54:45		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/23:15:25		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-29/23:21:38		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/00:22:17		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/00:30:42		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/00:43:27		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/00:50:28		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/00:56:31		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/01:02:24		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/01:10:59		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/09:24:59		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/09:38:47		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/09:50:59		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/10:18:14		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/10:30:16		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/13:11:03		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv
+2021-09-30/13:41:18		Valid File name!! File moved to GoodRaw Folder :: GAnalyst_31082021_114200.csv

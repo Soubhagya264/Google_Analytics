@@ -1,0 +1,125 @@
+ 
+2021-10-02/16:15:56		Start of Validation on files for prediction!!
+2021-10-02/16:16:53		Raw Data Validation Complete!!
+2021-10-02/16:16:53		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-02/16:20:20		Insertion in Table completed!!!
+2021-10-02/16:20:20		Deleting Good Data Folder!!!
+2021-10-02/16:20:20		Good_Data folder deleted!!!
+2021-10-02/16:20:20		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-02/16:20:20		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-02/16:20:20		Validation Operation completed!!
+2021-10-02/16:20:20		Extracting csv file from table
+2021-10-02/16:21:00		Start of Prediction
+2021-10-02/16:21:00		Entered the get_data method of the Data_Getter class
+2021-10-02/16:21:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-10-02/16:21:28		Json data convert into new rows
+2021-10-02/16:22:45		Started removing const col
+2021-10-02/16:22:52		replacing other value 
+2021-10-02/16:22:59		dropping unnecessary featured 
+2021-10-02/16:23:07		droped unnecessary featured 
+2021-10-02/16:23:07		 Extracting Neumerical feature from data
+2021-10-02/16:23:07		Extracted Neumerical feature from data
+2021-10-02/16:23:07		 Extracting categorical feature from data
+2021-10-02/16:23:07		 Extracted categorical feature from data
+2021-10-02/16:23:16		Entered the load_model method of the File_Operation class
+2021-10-02/16:23:16		Error occured while running the prediction!! Error:: [Errno 2] No such file or directory: 'myfile1.txt'
+2021-10-02/16:30:18		Start of Validation on files for prediction!!
+2021-10-02/16:31:14		Raw Data Validation Complete!!
+2021-10-02/16:31:14		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-02/16:35:05		Insertion in Table completed!!!
+2021-10-02/16:35:05		Deleting Good Data Folder!!!
+2021-10-02/16:35:05		Good_Data folder deleted!!!
+2021-10-02/16:35:05		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-02/16:35:05		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-02/16:35:05		Validation Operation completed!!
+2021-10-02/16:35:05		Extracting csv file from table
+2021-10-02/16:35:43		Start of Prediction
+2021-10-02/16:35:43		Entered the get_data method of the Data_Getter class
+2021-10-02/16:35:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-10-02/16:36:10		Json data convert into new rows
+2021-10-02/16:37:20		Started removing const col
+2021-10-02/16:37:27		replacing other value 
+2021-10-02/16:37:34		dropping unnecessary featured 
+2021-10-02/16:37:41		droped unnecessary featured 
+2021-10-02/16:37:41		 Extracting Neumerical feature from data
+2021-10-02/16:37:41		Extracted Neumerical feature from data
+2021-10-02/16:37:41		 Extracting categorical feature from data
+2021-10-02/16:37:41		 Extracted categorical feature from data
+2021-10-02/16:37:49		Entered the load_model method of the File_Operation class
+2021-10-02/16:37:49		Model File LGB loaded. Exited the load_model method of the Model_Finder class
+2021-10-02/16:37:52		Error occured while running the prediction!! Error:: [Errno 2] No such file or directory: 'Prediction_Output_File/Predictions.csv'
+2021-10-02/17:04:35		Start of Validation on files for prediction!!
+2021-10-02/17:05:35		Raw Data Validation Complete!!
+2021-10-02/17:05:35		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-02/17:09:13		Insertion in Table completed!!!
+2021-10-02/17:09:13		Deleting Good Data Folder!!!
+2021-10-02/17:09:13		Good_Data folder deleted!!!
+2021-10-02/17:09:13		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-02/17:09:13		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-02/17:09:13		Validation Operation completed!!
+2021-10-02/17:09:13		Extracting csv file from table
+2021-10-02/17:09:55		Start of Prediction
+2021-10-02/17:09:55		Entered the get_data method of the Data_Getter class
+2021-10-02/17:10:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-10-02/17:10:25		Json data convert into new rows
+2021-10-02/17:12:00		Started removing const col
+2021-10-02/17:12:09		replacing other value 
+2021-10-02/17:12:18		dropping unnecessary featured 
+2021-10-02/17:12:27		droped unnecessary featured 
+2021-10-02/17:12:27		 Extracting Neumerical feature from data
+2021-10-02/17:12:27		Extracted Neumerical feature from data
+2021-10-02/17:12:27		 Extracting categorical feature from data
+2021-10-02/17:12:28		 Extracted categorical feature from data
+2021-10-02/17:12:39		Entered the load_model method of the File_Operation class
+2021-10-02/17:12:39		Model File LGB loaded. Exited the load_model method of the Model_Finder class
+2021-10-02/17:12:45		End of Prediction
+2021-10-06/07:42:26		Start of Validation on files for prediction!!
+2021-10-06/07:43:25		Raw Data Validation Complete!!
+2021-10-06/07:43:25		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-06/07:46:53		Insertion in Table completed!!!
+2021-10-06/07:46:53		Deleting Good Data Folder!!!
+2021-10-06/07:46:53		Good_Data folder deleted!!!
+2021-10-06/07:46:53		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-06/07:46:53		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-06/07:46:53		Validation Operation completed!!
+2021-10-06/07:46:53		Extracting csv file from table
+2021-10-06/07:47:33		Start of Prediction
+2021-10-06/07:47:33		Entered the get_data method of the Data_Getter class
+2021-10-06/07:47:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-10-06/07:48:01		Json data convert into new rows
+2021-10-06/07:49:18		Started removing const col
+2021-10-06/07:49:25		replacing other value 
+2021-10-06/07:49:32		dropping unnecessary featured 
+2021-10-06/07:49:40		droped unnecessary featured 
+2021-10-06/07:49:40		 Extracting Neumerical feature from data
+2021-10-06/07:49:40		Extracted Neumerical feature from data
+2021-10-06/07:49:40		 Extracting categorical feature from data
+2021-10-06/07:49:40		 Extracted categorical feature from data
+2021-10-06/07:49:49		Entered the load_model method of the File_Operation class
+2021-10-06/07:49:49		Model File LGB loaded. Exited the load_model method of the Model_Finder class
+2021-10-06/07:49:54		End of Prediction
+2021-10-06/09:16:02		Start of Validation on files for prediction!!
+2021-10-06/09:16:59		Raw Data Validation Complete!!
+2021-10-06/09:16:59		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-06/09:20:22		Insertion in Table completed!!!
+2021-10-06/09:20:22		Deleting Good Data Folder!!!
+2021-10-06/09:20:22		Good_Data folder deleted!!!
+2021-10-06/09:20:22		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-06/09:20:22		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-06/09:20:22		Validation Operation completed!!
+2021-10-06/09:20:22		Extracting csv file from table
+2021-10-06/09:21:01		Start of Prediction
+2021-10-06/09:21:01		Entered the get_data method of the Data_Getter class
+2021-10-06/09:21:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-10-06/09:21:29		Json data convert into new rows
+2021-10-06/09:22:45		Started removing const col
+2021-10-06/09:22:52		replacing other value 
+2021-10-06/09:22:59		dropping unnecessary featured 
+2021-10-06/09:23:07		droped unnecessary featured 
+2021-10-06/09:23:07		 Extracting Neumerical feature from data
+2021-10-06/09:23:07		Extracted Neumerical feature from data
+2021-10-06/09:23:07		 Extracting categorical feature from data
+2021-10-06/09:23:07		 Extracted categorical feature from data
+2021-10-06/09:23:16		Entered the load_model method of the File_Operation class
+2021-10-06/09:23:16		Model File LGB loaded. Exited the load_model method of the Model_Finder class
+2021-10-06/09:23:21		End of Prediction

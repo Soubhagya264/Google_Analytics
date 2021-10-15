@@ -1,0 +1,21 @@
+{
+    "SampleFileName":"GAnalyst_31082021_114200.csv",
+    "LengthOfDateStampInFile": 8,
+    "LengthOfTimeStampInFile": 6,
+    "NumberofColumns" :12,
+    "ColName":{
+         "channelGrouping":"varchar",
+         "date":"date",
+         "device":"varchar",
+         "fullVisitorId":"varchar",
+         "geoNetwork":"varchar",
+         "sessionId":"varchar",
+         "socialEngagementType":"varchar",
+         "totals":"varchar",
+         "trafficSource":"varchar",
+         "visitId":"Integer",
+         "visitNumber":"Integer",
+         "visitStartTime":"Integer"
+
+    }
+}
