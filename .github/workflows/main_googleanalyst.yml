@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'GoogleAnalyst'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C90D44DD8E4C4016A5F1E0007FD58083 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_026E5E02FB6942EF911F147B73A85674 }}
