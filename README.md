@@ -1,6 +1,16 @@
 ## Google Analytics Customer Revenue Prediction System
 
 
+```
+UI Page
+![Screenshot (7)](https://user-images.githubusercontent.com/71813414/138503780-b59b62b1-bdad-43ec-8cb3-fa5901b68a67.png)
+```
+```
+Code Pipeline
+![Screenshot (9)](https://user-images.githubusercontent.com/71813414/138504464-c7114223-9da7-4152-96ac-2837d1eac5b3.png)
+
+```
+
  - This repository represents "Google Analytics Customer Revenue Prediction System "
  - With the help of this project we can Predict the potential future business.
 
