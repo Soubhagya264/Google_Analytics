@@ -18,6 +18,15 @@ created by those customers.
 - https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 
 
+### :hammer_and_wrench: Requirements
+- python > 3.6 
+- pandas
+- numpy
+- mongodb
+- XGBoost
+- LGB
+- sklearn
+
 
 
 
