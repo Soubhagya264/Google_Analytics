@@ -20,7 +20,7 @@
 
 Create an automated system for predicting potential future business, finding potential
 customers based on the various parameters as decided by the machine learning
-algorithm.using the GStore data we need to predict the future revenue will be
+algorithm. Using the GStore data we need to predict the future revenue will be
 created by those customers.
 
 ## ⏳ Dataset
