@@ -36,4 +36,7 @@ created by those customers.
      LightGBM splits the tree leaf-wise as opposed to other boosting algorithms that grow tree level-wise. It chooses the leaf with maximum delta loss to grow. Since the leaf is    fixed, the leaf-wise algorithm has lower loss compared to the level-wise algorithm. Leaf-wise tree growth might increase the complexity of the model and may lead to              overfitting in small datasets.
    ![Leaf-Wise-Tree-Growth](https://user-images.githubusercontent.com/71813414/138502357-b81adcb0-c952-4c39-8645-38a96904dc24.png)
 
+### Deployment
+- Heroku cloud has been used for deployment the ML system
+- https://ganalyst.herokuapp.com/   
 
