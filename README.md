@@ -14,10 +14,10 @@ algorithm.using the GStore data we need to predict the future revenue will be
 created by those customers.
 ```
 ## ⏳ Dataset
-```
+
 - Download the dataset for custom training
 - https://www.kaggle.com/c/ga-customer-revenue-prediction/data
-```
+
 
 ### :hammer_and_wrench: Requirements
 ```
